@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "simple_status"
   spec.version       = SimpleStatus::VERSION
   spec.authors       = ["David Rubin"]
-  spec.email         = ["david@fireid.com"]
+  spec.email         = ["davidrub@gmail.com"]
   spec.description   = %q{Adds very simple status checks to rails apps}
   spec.summary       = %q{Simple Status}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/drubin/simple_status"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
